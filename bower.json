@@ -1,0 +1,23 @@
+{
+  "name": "appCervicalCancerIOS",
+  "authors": [
+    "andres-alvarez <andresalvarezs10@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Framework7": "framework7#~1.3.5",
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}
