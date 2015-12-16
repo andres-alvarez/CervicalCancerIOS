@@ -507,3 +507,19 @@ div.ks-demo-lazy {
 /*.text-type {
     color: #02657a;
 }*/
+
+.letra-navbar {
+    font-family: 'Overlock', cursive;
+    font-style: italic;
+}
+
+.custom-letter {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
+
+.letra-menu {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+}
